@@ -106,11 +106,11 @@ class _NewCustomWidgetState extends State<NewCustomWidget> {
         }
         ;
         var systemLocale = await speech.systemLocale();
-        _currentLocaleId = systemLocale?.localeId ?? '';
+        _currentLocaleId = systemLocale?.localeId ?? "";
 
         if (FFAppState().language) {
           if (await _isIndonesianInstalled()) {
-            _currentLocaleId = 'in_ID';
+            _currentLocaleId = ;
           }
         }
 

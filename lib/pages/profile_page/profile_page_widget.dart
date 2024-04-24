@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter_azure_tts/flutter_azure_tts.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:speech_to_text/speech_to_text.dart';
 
 import '/auth/firebase_auth/auth_util.dart';
 import '/backend/backend.dart';
@@ -240,6 +241,16 @@ class _ProfilePageWidgetState extends State<ProfilePageWidget>
     super.dispose();
   }
 
+  void uhuy() async {
+    final SpeechToText speech = SpeechToText();
+    var _localeNames = await speech.locales();
+    print("Locale");
+
+    for (var loc in _localeNames) {
+      print(loc.name + "..." + loc.localeId);
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     context.watch<FFAppState>();
@@ -249,6 +260,9 @@ class _ProfilePageWidgetState extends State<ProfilePageWidget>
           ? FocusScope.of(context).requestFocus(_model.unfocusNode)
           : FocusScope.of(context).unfocus(),
       child: Scaffold(
+        floatingActionButton: FloatingActionButton(onPressed: (() {
+          uhuy();
+        })),
         key: scaffoldKey,
         backgroundColor: FlutterFlowTheme.of(context).secondaryBackground,
         appBar: AppBar(
