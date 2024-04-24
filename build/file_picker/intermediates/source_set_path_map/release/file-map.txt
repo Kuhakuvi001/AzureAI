@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-0 /Users/comp/.gradle/caches/transforms-3/171cf05b313e548d7114333088a2a001/transformed/core-1.6.0/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-1 /Users/comp/.gradle/caches/transforms-3/6829db69253de65a9d661ca997fc2ba1/transformed/jetified-annotation-experimental-1.1.0/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-2 /Users/comp/.gradle/caches/transforms-3/81f6ba3fe75e8de0a614204ae0cdf03a/transformed/jetified-window-1.0.0-beta04/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-3 /Users/comp/.gradle/caches/transforms-3/8b4d9eb2c94f2439b4a8f45145ab292a/transformed/jetified-window-java-1.0.0-beta04/res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 /Users/comp/.pub-cache/hosted/pub.dev/file_picker-6.1.1/android/src/main/res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 /Users/comp/.pub-cache/hosted/pub.dev/file_picker-6.1.1/android/src/release/res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 /Users/comp/Development/Flutter/azure_a_i 6/build/file_picker/generated/res/pngs/release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 /Users/comp/Development/Flutter/azure_a_i 6/build/file_picker/generated/res/resValues/release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 /Users/comp/Development/Flutter/azure_a_i 6/build/file_picker/generated/res/rs/release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 /Users/comp/Development/Flutter/azure_a_i 6/build/file_picker/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 /Users/comp/Development/Flutter/azure_a_i 6/build/file_picker/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 /Users/comp/Development/Flutter/azure_a_i 6/build/file_picker/intermediates/merged_res/release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 /Users/comp/Development/Flutter/azure_a_i 6/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release

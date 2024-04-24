@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "332626720164",
+    "project_id": "sampleui-1zh37m",
+    "storage_bucket": "sampleui-1zh37m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332626720164:android:ed488d2ea908b3b9733d31",
+        "android_client_info": {
+          "package_name": "com.mycompany.appai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMxHEp58uG8r-D6BbkkOrU8oCBsf-Smg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332626720164:android:e5f460683cc6b540733d31",
+        "android_client_info": {
+          "package_name": "com.mycompany.azureai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMxHEp58uG8r-D6BbkkOrU8oCBsf-Smg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332626720164:android:339d7d4068851229733d31",
+        "android_client_info": {
+          "package_name": "com.mycompany.sampleui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMxHEp58uG8r-D6BbkkOrU8oCBsf-Smg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
